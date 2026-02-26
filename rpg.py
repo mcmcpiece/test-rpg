@@ -65,6 +65,7 @@ def list_items():
     for i in rooms.rooms:
         for item in rooms.rooms[i]["items"]:
             print(item)
+            
 
 list_items()
 

@@ -48,5 +48,5 @@ rooms = {
             "west" : "nothing"
         },
         "items" : ["silver dagger"]
-    }
+    },
 }
